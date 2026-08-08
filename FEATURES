@@ -1,0 +1,21 @@
+## Foundation
+- [x] Next.js
+- [x] FastAPI
+- [x] SQLite
+- [x] Portfolio
+- [x] Buy Dialog
+
+## Trading
+- [ ] Live token search
+- [ ] Live prices
+- [ ] Auto refresh
+- [ ] Auto TP
+- [ ] Auto SL
+
+## Analytics
+- [ ] Win Rate
+- [ ] PnL
+- [ ] Journal
+
+## Extension
+- [ ] Chrome Extension
